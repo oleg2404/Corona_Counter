@@ -9,7 +9,7 @@ import speech_recognition as sr
 import mysql.connector
 import os
 import sys
-
+aaaa =2313
 #Counter for number of times the word is recognized
 counter = 0
 
