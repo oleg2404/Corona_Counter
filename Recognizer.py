@@ -1,6 +1,6 @@
 '''
 Created on 9 Mar 2020
-asdfsfsdfsdfdsffsdasd22
+a
 @author: Oleg Ovroutsky
 '''
 import _thread as thread, queue, time
